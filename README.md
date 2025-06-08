@@ -45,6 +45,20 @@ I created this repo to:
 ## 🛠 Contributing
 Feel free to fork this repo and make your own additions!
 If you find bugs or want to add new topics, you’re more than welcome to contribute.
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saksham-bansal-58123333a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/> ---->SAksham Bansal
+  </a>
+  <br>
+ 
+  
+  <a href="https://leetcode.com/u/sa_ksham/" >
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black&style=for-the-badge" alt="LeetCode"/>----->Leetcode 
+  </a>
+</p>
+
 
 
 # Happy coding Young Guns! 🔥
