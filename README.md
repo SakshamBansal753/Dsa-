@@ -4,6 +4,14 @@ Hello, my name is **Saksham Bansal** 👋
 This repository is a comprehensive collection of **Data Structures and Algorithms (DSA)** implemented in **C++**. It includes well-structured code examples, problem-solving techniques, and optimized solutions — all aligned to help you master DSA for competitive programming, technical interviews, and academic excellence.
 
 ---
+## 📖 Description
+I'm **not a teacher or instructor**, just a passionate **student learning DSA in C++**.  
+This repository is my personal practice space where I solve problems, implement core concepts, and improve my understanding of Data Structures and Algorithms.  
+
+I created this repo to:
+- Track my progress 📈  
+- Practice consistently 💻  
+- Share my journey with others who are learning like me 🤝  
 
 ## 🚀 What You’ll Find Here
 
